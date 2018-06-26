@@ -1,0 +1,1 @@
+React TypeScript Boilerplate using CRA2 and React App Rewired.
