@@ -40,7 +40,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.0.0-beta.46":
+"@babel/core@^7.0.0-beta.46", "@babel/core@^7.0.0-beta.51":
   version "7.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.0.0-beta.51.tgz#0e54bd6b638736b2ae593c31a47f0969e2b2b96d"
   dependencies:
@@ -1283,9 +1283,9 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
-"@baristalabs/react-app-rewire-css-modules@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@baristalabs/react-app-rewire-css-modules/-/react-app-rewire-css-modules-1.0.1.tgz#2c09a91a9f80df9d58d456d96a5aad9e3967acb9"
+"@baristalabs/react-app-rewire-css-modules@^1.0.2":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@baristalabs/react-app-rewire-css-modules/-/react-app-rewire-css-modules-1.0.3.tgz#a1c49a654c234e86d2d762ed6a9c2d899db7af17"
   dependencies:
     lodash.clonedeep "^4.5.0"
 
