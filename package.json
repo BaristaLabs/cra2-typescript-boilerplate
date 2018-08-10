@@ -29,7 +29,7 @@
   "devDependencies": {
     "@babel/core": "^7.0.0-rc.1",
     "@babel/preset-typescript": "^7.0.0-rc.1",
-    "@baristalabs/react-app-rewire-css-modules": "^1.0.4",
+    "@baristalabs/react-app-rewire-css-modules": "^1.0.5",
     "@baristalabs/react-app-rewire-polyfills": "^0.3.2",
     "@baristalabs/react-app-rewire-raw-loader": "^0.1.3",
     "@types/jest": "^23.3.1",
