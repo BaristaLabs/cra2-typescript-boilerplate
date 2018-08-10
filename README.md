@@ -1,6 +1,6 @@
 React TypeScript Boilerplate using CRA2 and React App Rewired.
 
-> Updated 2017/08/10
+> Updated 2018/08/10
 
 ### To Use:
 
