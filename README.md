@@ -1,5 +1,7 @@
 React TypeScript Boilerplate using CRA2 and React App Rewired.
 
+> Updated 2017/08/10
+
 ### To Use:
 
 ``` bash
@@ -12,9 +14,9 @@ And code away!
 
 Features:
 
-* create-react-app 2 (beta)
+* create-react-app 2 (beta 2.0.0-next.3e165448)
 * Webpack 4
-* Babel 7 (beta)
+* Babel 7 (RC1)
 * Typescript
 * SASS/SCSS
 * CoreJS Polyfills (through babel-polyfill)
